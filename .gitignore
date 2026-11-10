@@ -1,0 +1,21 @@
+# 모든 파일을 기본으로 제외하고, 배포에 필요한 파일만 포함합니다.
+*
+
+# 저장소 안내와 라이선스
+!/.gitignore
+!/README.md
+!/LICENSE
+
+# README에서 사용하는 대문 이미지
+!/assets/
+!/assets/hero-v2.png
+
+# 스킬 본문과 배포에 필요한 참고 자료
+!/skills/
+!/skills/korean-naturalizer/
+!/skills/korean-naturalizer/SKILL.md
+!/skills/korean-naturalizer/LICENSE
+!/skills/korean-naturalizer/THIRD_PARTY_NOTICES.md
+!/skills/korean-naturalizer/references/
+!/skills/korean-naturalizer/references/patterns.md
+!/skills/korean-naturalizer/references/genres.md
